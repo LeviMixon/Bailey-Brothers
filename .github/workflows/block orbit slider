@@ -1,0 +1,23 @@
+<div class="orbit" data-orbit="">
+<div class="orbit-wrapper">
+<div class="orbit-controls"><button class="orbit-previous button-1"><span class="show-for-sr">Previous Slide</span>&lt;</button> <button class="orbit-next button-1"><span class="show-for-sr">Next Slide</span>&gt;</button></div>
+<ul class="orbit-container orbit-container-padding">
+<li class="orbit-slide"><figure class="is-active orbit-figure"><a href="/new-from-namm-2020"><img class="orbit-image" src="/media/images/NEW-FROM-NAMM-HEADER.png" alt="New From NAMM" /></a></figure></li>
+<li class="orbit-slide"><figure class="is-active orbit-figure"><a href="/shop-by-brand-manufacturers/fender-american-ultra"><img class="orbit-image" src="/media/images/AMERICAN-ULTRA-FEATURE.jpg" alt="American ultra Fender 2019" /></a></figure></li>
+<li class="orbit-slide"><figure class="orbit-figure"><a href="/shop-by-category/gibson-2019-showcase"><img class="orbit-image" src="/media/images/2019-GIBSON.jpg" alt="2019 Gibson Feature" /></a></figure></li>
+<li class="orbit-slide"><figure class="orbit-figure"><a href="/the-mother-of-dragons"><img class="orbit-image" src="/media/images/MOTHER-FEATURE.jpg" alt="Mother Of Dragons" /></a></figure></li>
+<li class="orbit-slide"><figure class="orbit-figure"><a href="/taylor-namm-2019"><img class="orbit-image" src="/media/images/GRAND-PACIFIC-FEATURE.jpg" alt="/Taylor Grand Pacific" /></a></figure></li>
+<li class="orbit-slide"><figure class="orbit-figure"><a href="/gibson-125th-anniversary"><img class="orbit-image" src="/media/images/ANNIVERSARY-FEATURE.jpg" alt="Anniversary Feature" /></a></figure></li>
+<li class="orbit-slide"><figure class="orbit-figure"><a href="/jimmy-page-mirror-telecaster-rosewood-fingerboard-white-blonde"><img class="orbit-image" src="/media/images/PAGE-TELECASTER-FEATURE.jpg" alt="Jimmy Page Mirror Telecaster Rosewood Fingerboard White Blonde" /></a></figure></li>
+<li class="orbit-slide"><figure class="orbit-figure"><a href="/taylor-sales-event-2019"><img class="orbit-image" src="/media/images/TAYLOR-FEATURE.jpg" alt="Taylor Sales Event 2019" /></a></figure></li>
+</ul>
+</div>
+</div>
+<script type="text/javascript" xml="space">// <![CDATA[
+	require(['jquery', 'foundation'], function($) {
+	  $(document).ready(function() {
+		$('.orbit').foundation();
+	  });
+	});
+// ]]></script>
+<p><img id="hzDownscaled" style="position: absolute; top: -10000px;" /><img id="hzDownscaled" style="position: absolute; top: -10000px;" /><img id="hzDownscaled" style="position: absolute; top: -10000px;" /><img id="hzDownscaled" style="position: absolute; top: -10000px;" /></p>
